@@ -49,7 +49,7 @@ Fill out the form and click "Add".</br>
 
  - List of the students:</br>
  
- <img src="https://github.com/Gireesh123174/SunbaseAssignment/assets/85821830/16d3a7da-dbdf-4621-918e-16acd303b20e)" width="1000" height="500">
+ <img src="https://github.com/Kesava2201/SunbaseAssignment/assets/85821830/16d3a7da-dbdf-4621-918e-16acd303b20e)" width="1000" height="500">
 
 
 - Updating a Student</br>
@@ -57,21 +57,21 @@ Fill out the form and click "Add".</br>
 On the student list page (list.jsp), click "Edit" next to a student.</br>
 Update the information and click "Update".</br>
 
-<img src="https://github.com/Gireesh123174/SunbaseAssignment/assets/85821830/8e4f95ad-e51e-4b26-90ca-9e2b840e9cf3)" width="1000" height="500">
+<img src="https://github.com/Kesava2201/SunbaseAssignment/assets/85821830/8e4f95ad-e51e-4b26-90ca-9e2b840e9cf3)" width="1000" height="500">
 
 - Updated Student</br>
 
-<img src="https://github.com/Gireesh123174/SunbaseAssignment/assets/85821830/0551ced2-32ce-4ce6-a4fd-84a6d18e23de)" width="1000" height="500">
+<img src="https://github.com/Kesava2201/SunbaseAssignment/assets/85821830/0551ced2-32ce-4ce6-a4fd-84a6d18e23de)" width="1000" height="500">
 
 - Searching a Student Name</br>
-<img src="https://github.com/Gireesh123174/SunbaseAssignment/assets/85821830/40d9b53a-75cd-4c2a-b7a5-6186fa808640)" width="1000" height="500">
+<img src="https://github.com/Kesava2201/SunbaseAssignment/assets/85821830/40d9b53a-75cd-4c2a-b7a5-6186fa808640)" width="1000" height="500">
 
 - Searched Student Name</br>
 
-<img src="https://github.com/Gireesh123174/SunbaseAssignment/assets/85821830/63d48250-b70e-4713-a222-ee548ab44698)" width="1000" height="500">
+<img src="https://github.com/Kesava2201/SunbaseAssignment/assets/85821830/63d48250-b70e-4713-a222-ee548ab44698)" width="1000" height="500">
 
 - Deleting a Student:</br>
 
 On the student list page (list.jsp), click "Delete" next to a student to remove them from the database.</br>
 
-<img src="https://github.com/Gireesh123174/SunbaseAssignment/assets/85821830/ce68b5a9-e9d2-4989-b200-b7637035756c)" width="1000" height="500">
+<img src="https://github.com/Kesava2201/SunbaseAssignment/assets/85821830/ce68b5a9-e9d2-4989-b200-b7637035756c)" width="1000" height="500">
