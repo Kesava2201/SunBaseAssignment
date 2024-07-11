@@ -45,33 +45,34 @@ This project is a Java EE web application that demonstrates CRUD (Create, Read, 
 Click on "Add New Student" on the home page (add.jsp).</br>
 Fill out the form and click "Add".</br>
 
- <img src="https://github.com/Kesava2201/SunBaseAssignment/assets/161606458/7781b93f-4bee-47e0-9ee1-e827463f661d" width="1000" height="500">
+ <img src="https://github.com/Kesava2201/SunBaseAssignment/assets/161606458/7781b93f-4bee-47e0-9ee1-e827463f661d)" width="1000" height="500">
 
  - List of the students:</br>
  
- <img src="https://github.com/Kesava2201/SunbaseAssignment/assets/85821830/16d3a7da-dbdf-4621-918e-16acd303b20e)" width="1000" height="500">
-
+ <img src="https://github.com/Kesava2201/SunBaseAssignment/assets/161606458/55b7328b-8716-4304-b2e0-1949a14ce03e)" width="1000" height="500">
+ 
 
 - Updating a Student</br>
 
 On the student list page (list.jsp), click "Edit" next to a student.</br>
 Update the information and click "Update".</br>
 
-<img src="https://github.com/Kesava2201/SunbaseAssignment/assets/85821830/8e4f95ad-e51e-4b26-90ca-9e2b840e9cf3)" width="1000" height="500">
+<img src="https://github.com/Kesava2201/SunBaseAssignment/assets/161606458/bc48cff0-ea15-4faf-bb39-7c9021f03cd5)" width="1000" height="500">
+
 
 - Updated Student</br>
 
-<img src="https://github.com/Kesava2201/SunbaseAssignment/assets/85821830/0551ced2-32ce-4ce6-a4fd-84a6d18e23de)" width="1000" height="500">
+<img src="https://github.com/Kesava2201/SunBaseAssignment/assets/161606458/bbb43677-755a-406f-b7e3-9a015d4af930)" width="1000" height="500">
 
 - Searching a Student Name</br>
-<img src="https://github.com/Kesava2201/SunbaseAssignment/assets/85821830/40d9b53a-75cd-4c2a-b7a5-6186fa808640)" width="1000" height="500">
+<img src="https://github.com/Kesava2201/SunBaseAssignment/assets/161606458/14dff97f-f11b-4884-9fcd-9af337f958eb)" width="1000" height="500">
 
 - Searched Student Name</br>
 
-<img src="https://github.com/Kesava2201/SunbaseAssignment/assets/85821830/63d48250-b70e-4713-a222-ee548ab44698)" width="1000" height="500">
+<img src="https://github.com/Kesava2201/SunBaseAssignment/assets/161606458/f78dafab-806d-4f2e-b94c-d4bd0e00c5f0)" width="1000" height="500">
 
 - Deleting a Student:</br>
 
 On the student list page (list.jsp), click "Delete" next to a student to remove them from the database.</br>
 
-<img src="https://github.com/Kesava2201/SunbaseAssignment/assets/85821830/ce68b5a9-e9d2-4989-b200-b7637035756c)" width="1000" height="500">
+<img src="https://github.com/Kesava2201/SunBaseAssignment/assets/161606458/aae3dbc4-812a-45fc-826a-8400932cc562)" width="1000" height="500">
